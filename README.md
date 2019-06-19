@@ -3,17 +3,16 @@ A list of public GitHub repositories from the Islandora community, many of which
 
 ## Introduction
 
-A lightly curated list of GitHub repositories from organizations that deploy Islandora who have made customizations or original tools for Islandora. 
+A lightly curated list of public GitHub repositories from organizations that deploy Islandora who have made customizations or original tools for Islandora. 
 
-We offer this list for discovery, but do not officially provide support for any of these modules. Their maintainers may offer support; check the READMEs.
+We offer this list for discovery, but do not officially provide support for any of these repositories. Their maintainers may offer support; check the READMEs.
 
 ## Table of Contents
    * Organizations
       * [Canada](#canada)
       * [Netherlands](#netherlands)
       * [Switzerland](#switzerland)
-      * [United States](#united-states)
-  
+      * [United States](#united-states)  
  
 
 ## Contribute
@@ -73,13 +72,18 @@ To the extent possible under law, the owner has waived all copyright and related
 * [Barnard Archives and Special Collections](https://github.com/BarnardArchives)
 * [Cherry Hill Company](https://github.com/cherryhill)
 * [Common Media/ Born-Digital](https://github.com/commonmedia)
+* [Connecticut Digital Archive](https://github.com/CTDA)
 * [Drexel University Libraries](https://github.com/DrexelUniversityLibraries)
 * [Florida State University Libraries](https://github.com/fsulib)
 * [FLVC](https://github.com/FLVC)
+* [Louisiana State University](https://github.com/lsulibraries)
 * [LYRASIS](https://github.com/lyrasis)
+* [Metropolitan New York Library Council](https://github.com/mnylc)
 * [Michigan State University](https://github.com/Michigan-State-University)
+* [Smithsonian Institution](https://github.com/Smithsonian)
+* [University of Nevada Las vegas Libraries](https://github.com/UNLV-Libraries)
 * [University of North Carolina Charlotte Libraries](https://github.com/unc-charlotte-libraries)
-* [University of Pittsburgh - University Library System}(https://github.com/ulsdevteam)
+* [University of Pittsburgh - University Library System](https://github.com/ulsdevteam)
 * [University of Tennessee Libraries: Digital Initiatives](https://github.com/utkdigitalinitiatives)
 
 

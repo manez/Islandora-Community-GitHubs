@@ -3,7 +3,7 @@ A list of public GitHub repositories from the Islandora community, many of which
 
 ## Introduction
 
-A lightly curated list of public GitHub repositories from organizations that deploy Islandora who have made customizations or original tools for Islandora. 
+A lightly curated list of public GitHub repositories from the Islandora community, many of which contain forked Islandora modules and/or custom tools and modules for Islandora.
 
 We offer this list for discovery, but do not officially provide support for any of these repositories. Their maintainers may offer support; check the READMEs.
 

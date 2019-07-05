@@ -22,8 +22,8 @@ If you would like to contribute to this list, please check out [CONTRIBUTING.md]
 Please ensure your pull request adheres to the following guidelines:
 
 * Use the following format:
-   * For Organizations: `[Organization Name](link)` Use the name of the invidiaul unit responsible for the GitHub account, where applicable. For example: "University of Prince Edward Island Roberston Library" *not* "University of Prince Edward Island"
-* Link additions should be inserted alphabetically into the relevant country category, according to the name of the parent insitituion. For example: order "The Digital Scholarship Unit at the University of Toronto Scarborough Library" based on "University of Toronto".
+   * For Organizations: `[Organization Name](link)` Use the name of the individual unit responsible for the GitHub account, where applicable. For example: "University of Prince Edward Island Roberston Library" *not* "University of Prince Edward Island"
+* Additions should be inserted alphabetically into the relevant country category, according to the name of the parent insitituion. For example: order "The Digital Scholarship Unit at the University of Toronto Scarborough Library" should be ordered based on "University of Toronto."
 * If the home country is not already listed, please add it as a category.
 * Check your spelling and grammar.
 * The pull request and commit should have a useful title.

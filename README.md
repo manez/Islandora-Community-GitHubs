@@ -52,6 +52,8 @@ To the extent possible under law, the owner has waived all copyright and related
 ## Organizations
 
 ### Canada
+* [Agile Humanities](https://github.com/agile-humanities)
+* [Britsh Columbia Electronic Library Network (via Brandon Weigel's personal GitHub)[https://github.com/bondjimbond]
 * [Digital Echidna](https://github.com/echidnacorp)
 * [discoverygraden, Inc](https://github.com/discoverygarden)
 * [Simon Fraser University Library](https://github.com/SFULibrary)

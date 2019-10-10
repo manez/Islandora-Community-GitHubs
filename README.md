@@ -87,6 +87,8 @@ To the extent possible under law, the owner has waived all copyright and related
 * [University of North Carolina Charlotte Libraries](https://github.com/unc-charlotte-libraries)
 * [University of Pittsburgh - University Library System](https://github.com/ulsdevteam)
 * [University of Tennessee Libraries: Digital Initiatives](https://github.com/utkdigitalinitiatives)
+* [University of Tennessee Libraries: Metadata](https://github.com/UTKcataloging)
+
 
 
 
